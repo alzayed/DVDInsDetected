@@ -1,0 +1,6 @@
+C:\Users\Alzayed\source\repos\DVDInsDetection\DVDInsDetection\bin\Debug\DVDInsDetection.exe.config
+C:\Users\Alzayed\source\repos\DVDInsDetection\DVDInsDetection\bin\Debug\DVDInsDetection.exe
+C:\Users\Alzayed\source\repos\DVDInsDetection\DVDInsDetection\bin\Debug\DVDInsDetection.pdb
+C:\Users\Alzayed\source\repos\DVDInsDetection\DVDInsDetection\obj\Debug\DVDInsDetection.csprojAssemblyReference.cache
+C:\Users\Alzayed\source\repos\DVDInsDetection\DVDInsDetection\obj\Debug\DVDInsDetection.exe
+C:\Users\Alzayed\source\repos\DVDInsDetection\DVDInsDetection\obj\Debug\DVDInsDetection.pdb
